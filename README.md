@@ -146,25 +146,27 @@ Data-Cleaning-Reporting-Automation/
 
 ### Missing Values Chart
 
-![Missing Values](images/Missing_Values.png)
+<img width="787" height="667" alt="Missing_values" src="https://github.com/user-attachments/assets/7082c30e-3624-4f38-89a5-be13dbe8d2dd" />
+
 
 ---
 
 ### Gender Distribution
 
-![Gender Distribution](images/gender_distribution.png)
+<img width="571" height="489" alt="Gender Distribution" src="https://github.com/user-attachments/assets/56642c67-2f89-45b5-b36b-f501dfc6d78e" />
+
 
 ---
 
 ### Passenger Class Distribution
 
-![Passenger Class](images/passenger_class.png)
+<img width="571" height="450" alt="Passenger Class Distribution" src="https://github.com/user-attachments/assets/8584a8a4-ea65-4f58-a49a-ac71270aeac5" />
 
 ---
 
 ### Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+<img width="571" height="455" alt="Age Distribution" src="https://github.com/user-attachments/assets/872108df-f67a-4b3e-90fa-f5c6d9c87fd3" />
 
 ---
 
