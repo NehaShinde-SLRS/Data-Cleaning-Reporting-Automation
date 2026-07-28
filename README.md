@@ -134,11 +134,13 @@ Data-Cleaning-Reporting-Automation/
 
 <img width="1611" height="368" alt="head" src="https://github.com/user-attachments/assets/72805f08-d3c1-43c7-8040-27c7d49456ea" />
 
+
 ---
 
 ### Dataset Information
 
 <img width="647" height="498" alt="info" src="https://github.com/user-attachments/assets/0342b398-baa5-4777-a85f-402769043aa9" />
+
 
 ---
 
@@ -146,11 +148,13 @@ Data-Cleaning-Reporting-Automation/
 
 <img width="787" height="667" alt="Missing_values" src="https://github.com/user-attachments/assets/7082c30e-3624-4f38-89a5-be13dbe8d2dd" />
 
+
 ---
 
 ### Gender Distribution
 
 <img width="571" height="489" alt="Gender Distribution" src="https://github.com/user-attachments/assets/56642c67-2f89-45b5-b36b-f501dfc6d78e" />
+
 
 ---
 
@@ -158,11 +162,13 @@ Data-Cleaning-Reporting-Automation/
 
 <img width="571" height="450" alt="Passenger Class Distribution" src="https://github.com/user-attachments/assets/8584a8a4-ea65-4f58-a49a-ac71270aeac5" />
 
+
 ---
 
 ### Age Distribution
 
 <img width="571" height="455" alt="Age Distribution" src="https://github.com/user-attachments/assets/872108df-f67a-4b3e-90fa-f5c6d9c87fd3" />
+
 
 ---
 
