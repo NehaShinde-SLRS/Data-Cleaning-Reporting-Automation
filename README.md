@@ -132,7 +132,8 @@ Data-Cleaning-Reporting-Automation/
 
 ### Dataset Preview
 
-<img width="1611" height="368" alt="head" src="https://github.com/user-attachments/assets/72805f08-d3c1-43c7-8040-27c7d49456ea" />
+<img width="1611" height="368" alt="head" src="https://github.com/user-attachments/assets/fc2a66be-378d-4c86-bdcf-8bda732c577b" />
+
 
 
 ---
