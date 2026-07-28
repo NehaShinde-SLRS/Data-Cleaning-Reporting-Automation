@@ -110,21 +110,21 @@ Saved the cleaned dataset as:
 ```text
 Data-Cleaning-Reporting-Automation/
 │
-├── Data_Cleaning_Reporting_Automation.ipynb
+├── Data_Cleaning.ipynb
 ├── cleaned_train.csv
 ├── Data_Cleaning_Report.csv
 ├── requirements.txt
 ├── README.md
+├── train.csv
 │
 └── images/
-    ├── dataset_head.png
-    ├── dataset_info.png
+    ├── head.png
+    ├── info.png
     ├── missing_values.png
     ├── gender_distribution.png
     ├── passenger_class.png
     ├── age_distribution.png
-    └── notebook_output.png
-```
+    └── 
 
 ---
 
@@ -134,13 +134,11 @@ Data-Cleaning-Reporting-Automation/
 
 <img width="1611" height="368" alt="head" src="https://github.com/user-attachments/assets/72805f08-d3c1-43c7-8040-27c7d49456ea" />
 
-
 ---
 
 ### Dataset Information
 
 <img width="647" height="498" alt="info" src="https://github.com/user-attachments/assets/0342b398-baa5-4777-a85f-402769043aa9" />
-
 
 ---
 
@@ -148,13 +146,11 @@ Data-Cleaning-Reporting-Automation/
 
 <img width="787" height="667" alt="Missing_values" src="https://github.com/user-attachments/assets/7082c30e-3624-4f38-89a5-be13dbe8d2dd" />
 
-
 ---
 
 ### Gender Distribution
 
 <img width="571" height="489" alt="Gender Distribution" src="https://github.com/user-attachments/assets/56642c67-2f89-45b5-b36b-f501dfc6d78e" />
-
 
 ---
 
@@ -179,16 +175,6 @@ Data-Cleaning-Reporting-Automation/
 - Generated an automated data cleaning report.
 - Created visual summaries for better understanding of the dataset.
 - Saved the cleaned dataset for further analysis.
-
----
-
-## 🚀 Future Improvements
-
-- Add outlier detection and treatment.
-- Automate the complete workflow using functions.
-- Create an interactive dashboard using Power BI.
-- Integrate with SQL databases.
-- Deploy the workflow as a web application using Streamlit.
 
 ---
 
