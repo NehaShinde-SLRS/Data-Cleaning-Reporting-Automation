@@ -130,23 +130,17 @@ Data-Cleaning-Reporting-Automation/
 
 ## 📊 Project Screenshots
 
-### Dataset Preview
-![Dataset Preview](Images/head.png)
+![Dataset Preview](data%20cleaning%20and%20preprocessing/Images/head.png)
 
-### Dataset Information
-![Dataset Information](Images/info.png)
+![Dataset Information](data%20cleaning%20and%20preprocessing/Images/info.png)
 
-### Missing Values Chart
-![Missing Values Chart](Images/Missing%20values.png)
+![Missing Values](data%20cleaning%20and%20preprocessing/Images/Missing%20values.png)
 
-### Gender Distribution
-![Gender Distribution](Images/Gender%20Distribution.png)
+![Gender Distribution](data%20cleaning%20and%20preprocessing/Images/Gender%20Distribution.png)
 
-### Passenger Class Distribution
-![Passenger Class Distribution](Images/Passenger%20Class%20Distribution.png)
+![Passenger Class Distribution](data%20cleaning%20and%20preprocessing/Images/Passenger%20Class%20Distribution.png)
 
-### Age Distribution
-![Age Distribution](Images/Age%20Distribution.png)
+![Age Distribution](data%20cleaning%20and%20preprocessing/Images/Age%20Distribution.png)
 
 ## 📈 Results
 
