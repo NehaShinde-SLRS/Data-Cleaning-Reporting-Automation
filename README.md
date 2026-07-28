@@ -131,47 +131,22 @@ Data-Cleaning-Reporting-Automation/
 ## 📊 Project Screenshots
 
 ### Dataset Preview
-
-<img width="1611" height="368" alt="head" src="https://github.com/user-attachments/assets/fc2a66be-378d-4c86-bdcf-8bda732c577b" />
-
-
-
----
+![Dataset Preview](images/head.png)
 
 ### Dataset Information
-
-<img width="647" height="498" alt="info" src="https://github.com/user-attachments/assets/0342b398-baa5-4777-a85f-402769043aa9" />
-
-
----
+![Dataset Information](images/info.png)
 
 ### Missing Values Chart
-
-<img width="787" height="667" alt="Missing_values" src="https://github.com/user-attachments/assets/7082c30e-3624-4f38-89a5-be13dbe8d2dd" />
-
-
----
+![Missing Values Chart](images/missing_values.png)
 
 ### Gender Distribution
-
-<img width="571" height="489" alt="Gender Distribution" src="https://github.com/user-attachments/assets/56642c67-2f89-45b5-b36b-f501dfc6d78e" />
-
-
----
+![Gender Distribution](images/gender_distribution.png)
 
 ### Passenger Class Distribution
-
-<img width="571" height="450" alt="Passenger Class Distribution" src="https://github.com/user-attachments/assets/8584a8a4-ea65-4f58-a49a-ac71270aeac5" />
-
-
----
+![Passenger Class Distribution](images/passenger_class.png)
 
 ### Age Distribution
-
-<img width="571" height="455" alt="Age Distribution" src="https://github.com/user-attachments/assets/872108df-f67a-4b3e-90fa-f5c6d9c87fd3" />
-
-
----
+![Age Distribution](images/age_distribution.png)
 
 ## 📈 Results
 
